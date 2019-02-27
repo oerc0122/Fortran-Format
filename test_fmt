@@ -1,0 +1,17 @@
+
++----------------------------------------------------------------------------------------------------------------------+
+| cell                                                                                                                 |
++----------------------------------------------------------------------------------------------------------------------+
+| lattice vectors:                                           reciprocal lattice vectors:                               |
+| a:                 b:                 c:                   a*:                b*:                c*:                 |
+| ffffffff.fffffffff ffffffff.fffffffff ffffffff.fffffffff   ffffffff.fffffffff ffffffff.fffffffff ffffffff.fffffffff  |
+| ffffffff.fffffffff ffffffff.fffffffff ffffffff.fffffffff   ffffffff.fffffffff ffffffff.fffffffff ffffffff.fffffffff  |
+| ffffffff.fffffffff ffffffff.fffffffff ffffffff.fffffffff   ffffffff.fffffffff ffffffff.fffffffff ffffffff.fffffffff  |
+|                                                                                                                      |
+| volume : fffffffff.ffffffff                                                                                          |
++--------------------------+---------------------------------------------+---------------------------------------------+
+| natoms: iiiiiiiiiii      |                                             |                                             |
++----------+---------------+  cartesian position:                        |  fractional position:                       |
+| species: |  mass:        |   x:            y:            z:            |   u:            v:            w:            |
+|   aaa    | fff.fffffffff |  fff.fffffffff fff.fffffffff fff.fffffffff  |  fff.fffffffff fff.fffffffff fff.fffffffff  |
++----------+---------------+---------------------------------------------+---------------------------------------------+
