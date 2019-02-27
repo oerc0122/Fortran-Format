@@ -42,7 +42,7 @@ while (<>) {
             $_ = <>;
         }
         # Catch unheadered routine
-        if(!/$comment/){say '!! This $1 has no header !'}
+        if(!/$comment/){say '!! This $blocktype has no header !'}
         # Loop through header
         while(/$comment/){
             s/!+/!!/;
