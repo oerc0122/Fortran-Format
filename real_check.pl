@@ -1,4 +1,4 @@
-#!/usr/bin/env per
+#!/usr/bin/env perl
 # Real_check is a tool to check whether floats are followed by a kind specifier in Fortran
 # Written by J. Wilkins 2017
 
